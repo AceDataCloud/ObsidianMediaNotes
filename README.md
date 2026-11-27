@@ -22,7 +22,7 @@ Bring finished artwork, music, and video from an Ace Data Cloud task into a Mark
 
 An Ace Data Cloud account, an application key for the selected service, and an existing task are required. Creating the original media can incur charges. This plugin only retrieves a task and downloads a result you select. [Service pricing](https://platform.acedata.cloud/models?utm_source=opensource&utm_medium=referral&utm_campaign=evergreen)
 
-A lookup sends the selected service, task ID, and application key to `api.acedata.cloud`. Importing a selected result performs a separate HTTPS download from the media host without the application key. Note text, note paths, and vault contents are never uploaded. The plugin saves the selected service and the names of keychain secrets in its settings. It uses no client-side analytics. [Ace Data Cloud privacy policy](https://docs.acedata.cloud/resources/privacy?utm_source=opensource&utm_medium=referral&utm_campaign=evergreen)
+A lookup sends the selected service, task ID, and application key to `api.acedata.cloud`. Importing a selected result performs a separate HTTPS download from the media host without the application key. Note text, note paths, and vault contents are never uploaded. The plugin saves the selected service and the names of keychain secrets in its settings. It uses no client-side analytics. [Ace Data Cloud privacy policy](https://docs.acedata.cloud/en/resources/privacy?utm_source=opensource&utm_medium=referral&utm_campaign=evergreen)
 
 ## Install from a release
 
