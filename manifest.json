@@ -1,0 +1,10 @@
+{
+  "id": "ace-media-notes",
+  "name": "Ace Media Attachments",
+  "version": "1.0.0",
+  "minAppVersion": "1.11.4",
+  "description": "Import images, music, and videos from your completed Ace Data Cloud tasks into the active note.",
+  "author": "Ace Data Cloud",
+  "authorUrl": "https://github.com/AceDataCloud",
+  "isDesktopOnly": false
+}
